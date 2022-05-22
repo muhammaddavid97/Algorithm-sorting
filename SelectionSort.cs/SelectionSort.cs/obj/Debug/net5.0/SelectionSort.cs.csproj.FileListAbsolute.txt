@@ -1,0 +1,16 @@
+D:\Algo And Data Struktur C#\Sorting\SelectionSort.cs\SelectionSort.cs\bin\Debug\net5.0\SelectionSort.cs.exe
+D:\Algo And Data Struktur C#\Sorting\SelectionSort.cs\SelectionSort.cs\bin\Debug\net5.0\SelectionSort.cs.deps.json
+D:\Algo And Data Struktur C#\Sorting\SelectionSort.cs\SelectionSort.cs\bin\Debug\net5.0\SelectionSort.cs.runtimeconfig.json
+D:\Algo And Data Struktur C#\Sorting\SelectionSort.cs\SelectionSort.cs\bin\Debug\net5.0\SelectionSort.cs.runtimeconfig.dev.json
+D:\Algo And Data Struktur C#\Sorting\SelectionSort.cs\SelectionSort.cs\bin\Debug\net5.0\SelectionSort.cs.dll
+D:\Algo And Data Struktur C#\Sorting\SelectionSort.cs\SelectionSort.cs\bin\Debug\net5.0\SelectionSort.cs.pdb
+D:\Algo And Data Struktur C#\Sorting\SelectionSort.cs\SelectionSort.cs\obj\Debug\net5.0\SelectionSort.cs.csproj.AssemblyReference.cache
+D:\Algo And Data Struktur C#\Sorting\SelectionSort.cs\SelectionSort.cs\obj\Debug\net5.0\SelectionSort.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algo And Data Struktur C#\Sorting\SelectionSort.cs\SelectionSort.cs\obj\Debug\net5.0\SelectionSort.cs.AssemblyInfoInputs.cache
+D:\Algo And Data Struktur C#\Sorting\SelectionSort.cs\SelectionSort.cs\obj\Debug\net5.0\SelectionSort.cs.AssemblyInfo.cs
+D:\Algo And Data Struktur C#\Sorting\SelectionSort.cs\SelectionSort.cs\obj\Debug\net5.0\SelectionSort.cs.csproj.CoreCompileInputs.cache
+D:\Algo And Data Struktur C#\Sorting\SelectionSort.cs\SelectionSort.cs\obj\Debug\net5.0\SelectionSort.cs.dll
+D:\Algo And Data Struktur C#\Sorting\SelectionSort.cs\SelectionSort.cs\obj\Debug\net5.0\refint\SelectionSort.cs.dll
+D:\Algo And Data Struktur C#\Sorting\SelectionSort.cs\SelectionSort.cs\obj\Debug\net5.0\SelectionSort.cs.pdb
+D:\Algo And Data Struktur C#\Sorting\SelectionSort.cs\SelectionSort.cs\obj\Debug\net5.0\SelectionSort.cs.genruntimeconfig.cache
+D:\Algo And Data Struktur C#\Sorting\SelectionSort.cs\SelectionSort.cs\obj\Debug\net5.0\ref\SelectionSort.cs.dll

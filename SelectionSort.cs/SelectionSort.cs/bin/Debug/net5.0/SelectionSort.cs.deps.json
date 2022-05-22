@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SelectionSort.cs/1.0.0": {
+        "runtime": {
+          "SelectionSort.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SelectionSort.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
