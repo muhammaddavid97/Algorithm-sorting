@@ -1,0 +1,16 @@
+D:\Algo And Data Struktur C#\Sorting\BubbleSort\BubbleSort\bin\Debug\net5.0\BubbleSort.exe
+D:\Algo And Data Struktur C#\Sorting\BubbleSort\BubbleSort\bin\Debug\net5.0\BubbleSort.deps.json
+D:\Algo And Data Struktur C#\Sorting\BubbleSort\BubbleSort\bin\Debug\net5.0\BubbleSort.runtimeconfig.json
+D:\Algo And Data Struktur C#\Sorting\BubbleSort\BubbleSort\bin\Debug\net5.0\BubbleSort.runtimeconfig.dev.json
+D:\Algo And Data Struktur C#\Sorting\BubbleSort\BubbleSort\bin\Debug\net5.0\BubbleSort.dll
+D:\Algo And Data Struktur C#\Sorting\BubbleSort\BubbleSort\bin\Debug\net5.0\BubbleSort.pdb
+D:\Algo And Data Struktur C#\Sorting\BubbleSort\BubbleSort\obj\Debug\net5.0\BubbleSort.csproj.AssemblyReference.cache
+D:\Algo And Data Struktur C#\Sorting\BubbleSort\BubbleSort\obj\Debug\net5.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algo And Data Struktur C#\Sorting\BubbleSort\BubbleSort\obj\Debug\net5.0\BubbleSort.AssemblyInfoInputs.cache
+D:\Algo And Data Struktur C#\Sorting\BubbleSort\BubbleSort\obj\Debug\net5.0\BubbleSort.AssemblyInfo.cs
+D:\Algo And Data Struktur C#\Sorting\BubbleSort\BubbleSort\obj\Debug\net5.0\BubbleSort.csproj.CoreCompileInputs.cache
+D:\Algo And Data Struktur C#\Sorting\BubbleSort\BubbleSort\obj\Debug\net5.0\BubbleSort.dll
+D:\Algo And Data Struktur C#\Sorting\BubbleSort\BubbleSort\obj\Debug\net5.0\refint\BubbleSort.dll
+D:\Algo And Data Struktur C#\Sorting\BubbleSort\BubbleSort\obj\Debug\net5.0\BubbleSort.pdb
+D:\Algo And Data Struktur C#\Sorting\BubbleSort\BubbleSort\obj\Debug\net5.0\BubbleSort.genruntimeconfig.cache
+D:\Algo And Data Struktur C#\Sorting\BubbleSort\BubbleSort\obj\Debug\net5.0\ref\BubbleSort.dll
